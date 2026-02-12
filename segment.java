@@ -19,4 +19,12 @@ public class segment {
     public void setP1(Point p){
         this.p1 = p;
     }
+
+    public Point getP2(){
+        return this.p2;
+    }
+
+    public void setP2(Point p){
+        this.p2 = p;
+    }
 }
